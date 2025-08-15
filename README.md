@@ -1,5 +1,5 @@
 
-# Photo Metadata Suite
+# Zeitkalkül
 
 **Erweiterte Foto-Metadaten-Analyse** mit Gesichtserkennung, EXIF-Extraktion und intelligenten Analysen.  
 Enthält eine **CLI** und eine **Streamlit Multi-Page UI** (Enroll + Annotate + Analyze).
