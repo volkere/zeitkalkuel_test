@@ -8,6 +8,7 @@ Wähle links eine Seite:
 - **Enroll**: Embeddings für Personen-Erkennung erstellen
 - **Annotate**: Fotos mit erweiterten Metadaten analysieren  
 - **Analyze**: Erweiterte Statistiken und Visualisierungen
+- **Train**: KI-Training mit Metadaten für bessere Genauigkeit
 
 ### Neue Features:
 
